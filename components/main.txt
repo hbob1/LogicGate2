@@ -1,0 +1,4 @@
+comp id=X type=XOR
+input name=X index=0 value=1
+input name=X index=1 value=0
+Out put=X kndex=0

@@ -1,0 +1,6 @@
+comp id=r type=OR
+comp id=n type=NOT
+input name=r index=0 value=1
+input name=r index=1 value=0
+connect from=r findex=0 to=n tindex=0
+Out put=n kndex=0

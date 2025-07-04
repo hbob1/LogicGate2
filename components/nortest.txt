@@ -1,0 +1,4 @@
+comp id=n type=NOR
+input name=n index=0 value=1
+input name=n index=1 value=0
+Out put=n kndex=0
